@@ -1,0 +1,36 @@
+body{
+    background-color: #FCFFB2;
+}
+
+.heading{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.fade-text {
+    animation: fade 4s infinite;
+  }
+  
+  @keyframes fade {
+    0% {
+      color: #ADA2FF;
+    }
+    50% {
+      color: #293462;
+    }
+    100% {
+      color:#ADA2FF;
+    }
+  }
+
+.city{
+    font-family: 'Titillium Web', sans-serif;
+    color: #293462;
+}
+
+.cr{
+    position: relative;
+    top: 40px;
+}
+
