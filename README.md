@@ -24,7 +24,7 @@ Before running this application, you will need to obtain an API key from [OpenWe
 3. Install the dependencies:
 
    ```bash
-   npm install
+   npm install express body-parser dotenv
    ```
 
 4. Create a `.env` file in the project's root directory and add your OpenWeatherMap API key:
@@ -45,24 +45,25 @@ After starting the application, open your preferred web browser and navigate to 
 
 1. Enter the name of the city for which you want to retrieve weather information.
 
-2. Click the "Get Weather" button.
+2. Click the "Go" button.
 
 3. The application will fetch the weather data from the OpenWeatherMap API and display it on the screen.
+
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing the weather data API.
 - [Node.js](https://nodejs.org/) for the server-side JavaScript runtime.
 - [Express](https://expressjs.com/) for the web application framework.
-- [Axios](https://axios-http.com/) for HTTP requests.
 - [dotenv](https://github.com/motdotla/dotenv) for managing environment variables.
 
-## Disclaimer
-
-This application is for educational purposes only and should not be used in production environments without proper modifications and security considerations. Use it at your own risk.
  
