@@ -6,18 +6,6 @@ A simple Node.js application that provides weather information for a given city.
 
 Before running this application, you will need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) by creating an account and generating a new API key. The API key is required to make requests to the OpenWeatherMap API.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone # Weather App
-
-A simple Node.js application that provides weather information for a given city. This application uses the OpenWeatherMap API to retrieve current weather data.
-
-## Prerequisites
-
-Before running this application, you will need to obtain an API key from [OpenWeatherMap](https://openweathermap.org/) by creating an account and generating a new API key. The API key is required to make requests to the OpenWeatherMap API.
 
 ## Installation
 
